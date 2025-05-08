@@ -1,17 +1,35 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/png" href="/favicon.png" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="/style.css">
-    <title>PixiJS - Template</title>
-</head>
-
-<body>
-    <div id="app">
-        <div id="pixi-container"></div>
-    </div>
-    <script type="module" src="/src/main.ts"></script>
-</body>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0" />
+    <title>canvas</title>
+    <style>
+      .wrap {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        translate: -50% -50%;
+        border: 1px solid black;
+        /* transform: rotateX('angle'); */
+      }
+    </style>
+  </head>
+  <body>
+    <a href="canvas.html">canvas</a>
+    <canvas
+      id="canvas"
+      class="wrap"
+      width="400"
+      height="300"></canvas>
+    <!-- <div
+      class="wrap"
+      id="div_canvas"
+      style="width: 400px; height: 300px"></div> -->
+    <script
+      type="module"
+      src="./src/main.ts"></script>
+  </body>
 </html>

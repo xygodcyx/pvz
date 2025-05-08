@@ -1,0 +1,471 @@
+{
+    "fps": 20,
+    "tracks": [
+        {
+            "name": "anim_water",
+            "transforms": [
+                {
+                    "kx": 356.5,
+                    "ky": 356.5
+                },
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {
+                    "f": -1
+                },
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "anim_water_area",
+            "transforms": [
+                {
+                    "f": -1
+                },
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {
+                    "kx": -3.4,
+                    "ky": -3.4,
+                    "f": 0
+                },
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "name": "can",
+            "transforms": [
+                {
+                    "f": -1
+                },
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {
+                    "x": -11.2,
+                    "y": -2.4,
+                    "f": 0,
+                    "i": "IMAGE_REANIM_ZENGARDEN_WATERINGCAN_WATER1"
+                },
+                {
+                    "x": -11.4,
+                    "y": -3.4,
+                    "i": "IMAGE_REANIM_ZENGARDEN_WATERINGCAN_WATER2"
+                },
+                {
+                    "x": -9.4,
+                    "y": -2.7,
+                    "i": "IMAGE_REANIM_ZENGARDEN_WATERINGCAN_WATER3"
+                },
+                {
+                    "x": -8.7,
+                    "y": -2.9,
+                    "i": "IMAGE_REANIM_ZENGARDEN_WATERINGCAN_WATER4"
+                },
+                {
+                    "x": -5.2,
+                    "y": -2.7,
+                    "i": "IMAGE_REANIM_ZENGARDEN_WATERINGCAN_WATER5"
+                },
+                {
+                    "x": -1.4,
+                    "y": -0.7,
+                    "i": "IMAGE_REANIM_ZENGARDEN_WATERINGCAN_WATER6"
+                },
+                {
+                    "x": -1.2,
+                    "y": -7.4,
+                    "i": "IMAGE_REANIM_ZENGARDEN_WATERINGCAN_WATER7"
+                },
+                {
+                    "y": -4.9,
+                    "i": "IMAGE_REANIM_ZENGARDEN_WATERINGCAN_WATER8"
+                },
+                {
+                    "x": 0.8,
+                    "y": -3.7,
+                    "sx": 0.806,
+                    "sy": 1.071,
+                    "a": 0.5
+                },
+                {
+                    "x": 2.9,
+                    "y": -2.4,
+                    "sx": 0.612,
+                    "sy": 1.143,
+                    "a": 0
+                },
+                {
+                    "f": -1
+                },
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {
+                    "x": -11.2,
+                    "sx": 1,
+                    "sy": 1,
+                    "f": 0,
+                    "a": 1,
+                    "i": "IMAGE_REANIM_ZENGARDEN_WATERINGCAN_WATER1"
+                },
+                {
+                    "x": 3.8,
+                    "y": 14.4,
+                    "i": "IMAGE_REANIM_ZENGARDEN_WATERINGCAN_WATER2"
+                },
+                {
+                    "x": 24.5,
+                    "y": 22.4,
+                    "i": "IMAGE_REANIM_ZENGARDEN_WATERINGCAN_WATER3"
+                },
+                {
+                    "x": 47,
+                    "y": 13.8,
+                    "i": "IMAGE_REANIM_ZENGARDEN_WATERINGCAN_WATER4"
+                },
+                {
+                    "x": 59.3,
+                    "y": 0.9,
+                    "i": "IMAGE_REANIM_ZENGARDEN_WATERINGCAN_WATER5"
+                },
+                {
+                    "x": 48,
+                    "y": -16.8,
+                    "i": "IMAGE_REANIM_ZENGARDEN_WATERINGCAN_WATER6"
+                },
+                {
+                    "x": 28.7,
+                    "y": -22.6,
+                    "i": "IMAGE_REANIM_ZENGARDEN_WATERINGCAN_WATER7"
+                },
+                {
+                    "x": 5.6,
+                    "y": -23.3,
+                    "i": "IMAGE_REANIM_ZENGARDEN_WATERINGCAN_WATER8"
+                },
+                {
+                    "x": 4.3,
+                    "y": -15.9,
+                    "sx": 0.806,
+                    "sy": 1.071,
+                    "a": 0.5
+                },
+                {
+                    "x": 2.9,
+                    "y": -8.4,
+                    "sx": 0.612,
+                    "sy": 1.143,
+                    "a": 0
+                }
+            ]
+        },
+        {
+            "name": "water",
+            "transforms": [
+                {
+                    "x": 5.1,
+                    "y": 4.9,
+                    "i": "IMAGE_REANIM_ZENGARDEN_WATERINGCAN1"
+                },
+                {
+                    "x": 1.6,
+                    "y": 3.4,
+                    "kx": -6.2,
+                    "ky": -6.2
+                },
+                {
+                    "x": -1.4,
+                    "y": 2.4,
+                    "kx": -12.7,
+                    "ky": -12.7,
+                    "sx": 0.999,
+                    "sy": 0.999
+                },
+                {
+                    "x": -3.9,
+                    "y": 1.7,
+                    "kx": -19.2,
+                    "ky": -19.2
+                },
+                {
+                    "x": -5.8,
+                    "y": 1.2,
+                    "kx": -25.5,
+                    "ky": -25.5
+                },
+                {
+                    "x": -7.2,
+                    "y": 1,
+                    "kx": -32,
+                    "ky": -32
+                },
+                {
+                    "x": -7.9,
+                    "kx": -38.5,
+                    "ky": -38.5,
+                    "sx": 0.998,
+                    "sy": 0.998
+                },
+                {
+                    "x": -8,
+                    "y": 1,
+                    "kx": -44.9,
+                    "ky": -44.9,
+                    "sx": 1,
+                    "sy": 1
+                },
+                {
+                    "y": 0.2,
+                    "kx": -47.9,
+                    "ky": -47.9,
+                    "i": "IMAGE_REANIM_ZENGARDEN_WATERINGCAN2"
+                },
+                {
+                    "x": -7.6,
+                    "y": 0.4,
+                    "kx": -52.4,
+                    "ky": -52.4
+                },
+                {
+                    "x": -6.9,
+                    "y": 3.8,
+                    "kx": -58.5,
+                    "ky": -58.5,
+                    "sx": 0.999,
+                    "sy": 0.999,
+                    "i": "IMAGE_REANIM_ZENGARDEN_WATERINGCAN3"
+                },
+                {
+                    "x": -4.7,
+                    "y": 7.3,
+                    "kx": -66.7,
+                    "ky": -66.7,
+                    "sx": 1,
+                    "sy": 1
+                },
+                {
+                    "x": -3.6,
+                    "y": 8.7,
+                    "kx": -68.9,
+                    "ky": -68.9,
+                    "sx": 0.999,
+                    "sy": 0.999,
+                    "i": "IMAGE_REANIM_ZENGARDEN-WATERINGCAN4"
+                },
+                {
+                    "x": -3.5,
+                    "y": 5.9,
+                    "kx": -69.1,
+                    "ky": -69.1,
+                    "sx": 0.998,
+                    "sy": 0.998
+                },
+                {
+                    "x": -3.6,
+                    "y": 2.9,
+                    "kx": -68.9,
+                    "ky": -68.9,
+                    "sx": 0.999,
+                    "sy": 0.999
+                },
+                {
+                    "x": -6,
+                    "y": 2,
+                    "kx": -60.8,
+                    "ky": -60.8,
+                    "sx": 0.998,
+                    "sy": 0.998
+                },
+                {
+                    "x": -7.6,
+                    "y": 0.4,
+                    "kx": -52.4,
+                    "ky": -52.4,
+                    "sx": 1,
+                    "sy": 1,
+                    "i": "IMAGE_REANIM_ZENGARDEN_WATERINGCAN2"
+                },
+                {
+                    "x": 5.1,
+                    "y": 4.9,
+                    "kx": 0,
+                    "ky": 0,
+                    "i": "IMAGE_REANIM_ZENGARDEN_WATERINGCAN1_GOLD"
+                },
+                {
+                    "x": 1.6,
+                    "y": 3.4,
+                    "kx": -6.2,
+                    "ky": -6.2
+                },
+                {
+                    "x": -1.4,
+                    "y": 2.4,
+                    "kx": -12.7,
+                    "ky": -12.7,
+                    "sx": 0.999,
+                    "sy": 0.999
+                },
+                {
+                    "x": -3.9,
+                    "y": 1.7,
+                    "kx": -19.2,
+                    "ky": -19.2
+                },
+                {
+                    "x": -5.8,
+                    "y": 1.2,
+                    "kx": -25.5,
+                    "ky": -25.5
+                },
+                {
+                    "x": -7.2,
+                    "y": 1,
+                    "kx": -32,
+                    "ky": -32
+                },
+                {
+                    "x": -7.9,
+                    "kx": -38.5,
+                    "ky": -38.5,
+                    "sx": 0.998,
+                    "sy": 0.998
+                },
+                {
+                    "x": -8,
+                    "y": 1,
+                    "kx": -44.9,
+                    "ky": -44.9,
+                    "sx": 1,
+                    "sy": 1
+                },
+                {
+                    "x": 6.8,
+                    "y": 22.4,
+                    "kx": -52.7,
+                    "ky": -52.7
+                },
+                {
+                    "x": 24,
+                    "y": 26.8,
+                    "kx": -57.7,
+                    "ky": -57.7,
+                    "sx": 0.999,
+                    "sy": 0.999,
+                    "i": "IMAGE_REANIM_ZENGARDEN_WATERINGCAN2_GOLD"
+                },
+                {
+                    "x": 48.1,
+                    "y": 23.6,
+                    "kx": -65.7,
+                    "ky": -65.7,
+                    "sx": 0.998,
+                    "sy": 0.998
+                },
+                {
+                    "x": 59.9,
+                    "y": 12.5,
+                    "kx": -73.4,
+                    "ky": -73.4,
+                    "sx": 0.999,
+                    "sy": 0.999,
+                    "i": "IMAGE_REANIM_ZENGARDEN_WATERINGCAN3_GOLD"
+                },
+                {
+                    "x": 48.5,
+                    "y": 1.2,
+                    "kx": -81,
+                    "ky": -81
+                },
+                {
+                    "x": 30.3,
+                    "y": 0,
+                    "kx": -86.2,
+                    "ky": -86.2
+                },
+                {
+                    "x": 13.6,
+                    "y": 5.7,
+                    "kx": -94.4,
+                    "ky": -94.4,
+                    "sx": 0.997,
+                    "sy": 0.997
+                },
+                {
+                    "x": 2.9,
+                    "y": 14.9,
+                    "kx": -100.6,
+                    "ky": -100.6,
+                    "sx": 0.998,
+                    "sy": 0.998
+                },
+                {}
+            ]
+        }
+    ]
+}

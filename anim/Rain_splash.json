@@ -1,0 +1,56 @@
+{
+    "fps": 12,
+    "tracks": [
+        {
+            "name": "rain",
+            "transforms": [
+                {
+                    "f": -1
+                },
+                {
+                    "x": 0.3,
+                    "y": 0.2,
+                    "sx": 0.8,
+                    "sy": 0.8,
+                    "f": 0,
+                    "i": "IMAGE_REANIM_RAIN_SPLASH1"
+                },
+                {
+                    "x": 0.1,
+                    "y": 0.3,
+                    "i": "IMAGE_REANIM_RAIN_SPLASH2"
+                },
+                {
+                    "x": 0.3,
+                    "i": "IMAGE_REANIM_RAIN_SPLASH3"
+                },
+                {
+                    "x": 0.2,
+                    "y": 0.1,
+                    "i": "IMAGE_REANIM_RAIN_SPLASH4"
+                },
+                {
+                    "x": -2.1,
+                    "y": -1.9,
+                    "sx": 0.936,
+                    "sy": 0.936,
+                    "a": 0.67
+                },
+                {
+                    "x": -4.4,
+                    "y": -3.9,
+                    "sx": 1.072,
+                    "sy": 1.072,
+                    "a": 0.33
+                },
+                {
+                    "x": -6.8,
+                    "y": -6,
+                    "sx": 1.208,
+                    "sy": 1.208,
+                    "a": 0
+                }
+            ]
+        }
+    ]
+}

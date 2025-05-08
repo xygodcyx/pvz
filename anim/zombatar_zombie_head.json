@@ -1,0 +1,1894 @@
+{
+    "fps": 12,
+    "tracks": [
+        {
+            "name": "anim_head1",
+            "transforms": [
+                {
+                    "x": 19,
+                    "y": 19.6,
+                    "sx": 0.8,
+                    "sy": 0.8,
+                    "i": "IMAGE_REANIM_ZOMBIE_HEAD"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "anim_head2",
+            "transforms": [
+                {
+                    "x": 25.3,
+                    "y": 50.1,
+                    "sx": 0.8,
+                    "sy": 0.8,
+                    "i": "IMAGE_REANIM_ZOMBIE_JAW"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "anim_hair",
+            "transforms": [
+                {
+                    "x": 14.9,
+                    "y": 17.2,
+                    "sx": 0.8,
+                    "sy": 0.8,
+                    "i": "IMAGE_REANIM_ZOMBIE_HAIR"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hats_13",
+            "transforms": [
+                {
+                    "x": 13.5,
+                    "y": 7.6,
+                    "i": "IMAGE_REANIM_HATS_13"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hats_13_line",
+            "transforms": [
+                {
+                    "x": 12.4,
+                    "y": 6.5,
+                    "i": "IMAGE_REANIM_HATS_13_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hats_12_line",
+            "transforms": [
+                {
+                    "x": 10.8,
+                    "y": 3.3,
+                    "i": "IMAGE_REANIM_HATS_12_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hats_11_line",
+            "transforms": [
+                {
+                    "x": 21.4,
+                    "y": 9.3,
+                    "i": "IMAGE_REANIM_HATS_11_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hats_11",
+            "transforms": [
+                {
+                    "x": 21.8,
+                    "y": 10.7,
+                    "i": "IMAGE_REANIM_HATS_11"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hats_10_line",
+            "transforms": [
+                {
+                    "x": 25.8,
+                    "y": 7,
+                    "i": "IMAGE_REANIM_HATS_10_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hats_10",
+            "transforms": [
+                {
+                    "x": 27.6,
+                    "y": 12.2,
+                    "i": "IMAGE_REANIM_HATS_10"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hats_09_line",
+            "transforms": [
+                {
+                    "x": 7.7,
+                    "y": 20,
+                    "i": "IMAGE_REANIM_HATS_09_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hats_09",
+            "transforms": [
+                {
+                    "x": 8.9,
+                    "y": 20.3,
+                    "i": "IMAGE_REANIM_HATS_09"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hats_08_line",
+            "transforms": [
+                {
+                    "x": 18.7,
+                    "y": -32.3,
+                    "i": "IMAGE_REANIM_HATS_08_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hats_08",
+            "transforms": [
+                {
+                    "x": 19.2,
+                    "y": -31.8,
+                    "i": "IMAGE_REANIM_HATS_08"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hats_07_line",
+            "transforms": [
+                {
+                    "x": -0.8,
+                    "y": -2.8,
+                    "i": "IMAGE_REANIM_HATS_07_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hats_07",
+            "transforms": [
+                {
+                    "x": 0.7,
+                    "y": -1.3,
+                    "i": "IMAGE_REANIM_HATS_07"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hats_06_line",
+            "transforms": [
+                {
+                    "x": 23.9,
+                    "y": 9,
+                    "i": "IMAGE_REANIM_HATS_06_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hats_06",
+            "transforms": [
+                {
+                    "x": 24.3,
+                    "y": 9.5,
+                    "i": "IMAGE_REANIM_HATS_06"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hats_05_line",
+            "transforms": [
+                {
+                    "x": 11.5,
+                    "y": 4.9,
+                    "i": "IMAGE_REANIM_HATS_05_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hats_05",
+            "transforms": [
+                {
+                    "x": 11.8,
+                    "y": 5.3,
+                    "i": "IMAGE_REANIM_HATS_05"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hats_04_line",
+            "transforms": [
+                {
+                    "x": 19.9,
+                    "y": 10.5,
+                    "i": "IMAGE_REANIM_HATS_04_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hats_04",
+            "transforms": [
+                {
+                    "x": 20.8,
+                    "y": 11.3,
+                    "i": "IMAGE_REANIM_HATS_04"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hats_03_line",
+            "transforms": [
+                {
+                    "x": 9.4,
+                    "y": 8.7,
+                    "i": "IMAGE_REANIM_HATS_03_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hats_03",
+            "transforms": [
+                {
+                    "x": 9.9,
+                    "y": 9.3,
+                    "i": "IMAGE_REANIM_HATS_03"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hats_02_line",
+            "transforms": [
+                {
+                    "x": 18.6,
+                    "y": 11.6,
+                    "i": "IMAGE_REANIM_HATS_02_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hats_02",
+            "transforms": [
+                {
+                    "x": 24.9,
+                    "y": 12.2,
+                    "i": "IMAGE_REANIM_HATS_02"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hats_01_line",
+            "transforms": [
+                {
+                    "x": 21.4,
+                    "y": 8.7,
+                    "i": "IMAGE_REANIM_HATS_01_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hats_01",
+            "transforms": [
+                {
+                    "x": 21.8,
+                    "y": 9.2,
+                    "i": "IMAGE_REANIM_HATS_01"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hats_00_line",
+            "transforms": [
+                {
+                    "x": 14.9,
+                    "y": 6,
+                    "i": "IMAGE_REANIM_HATS_00_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hats_00",
+            "transforms": [
+                {
+                    "x": 15.3,
+                    "y": 6.3,
+                    "i": "IMAGE_REANIM_HATS_00"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hair_15_line",
+            "transforms": [
+                {
+                    "x": 12.9,
+                    "y": 15.4,
+                    "i": "IMAGE_REANIM_HAIR_15_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hair_15",
+            "transforms": [
+                {
+                    "x": 14.2,
+                    "y": 16.1,
+                    "i": "IMAGE_REANIM_HAIR_15"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hair_14_line",
+            "transforms": [
+                {
+                    "x": 20.4,
+                    "y": 5,
+                    "i": "IMAGE_REANIM_HAIR_14_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hair_14",
+            "transforms": [
+                {
+                    "x": 20.8,
+                    "y": 5.9,
+                    "i": "IMAGE_REANIM_HAIR_14"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hair_13_line",
+            "transforms": [
+                {
+                    "x": 9.8,
+                    "y": 5.5,
+                    "i": "IMAGE_REANIM_HAIR_13_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hair_13",
+            "transforms": [
+                {
+                    "x": 10.4,
+                    "y": 6.8,
+                    "i": "IMAGE_REANIM_HAIR_13"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hair_12_line",
+            "transforms": [
+                {
+                    "x": 16.3,
+                    "y": 9.6,
+                    "i": "IMAGE_REANIM_HAIR_12_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hair_12",
+            "transforms": [
+                {
+                    "x": 16.8,
+                    "y": 9.4,
+                    "i": "IMAGE_REANIM_HAIR_12"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hair_11_line",
+            "transforms": [
+                {
+                    "x": 21.7,
+                    "y": -23.5,
+                    "i": "IMAGE_REANIM_HAIR_11_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hair_11",
+            "transforms": [
+                {
+                    "x": 22.6,
+                    "y": -23.1,
+                    "i": "IMAGE_REANIM_HAIR_11"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hair_10_line",
+            "transforms": [
+                {
+                    "x": 14.2,
+                    "y": 11.5,
+                    "i": "IMAGE_REANIM_HAIR_10_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hair_10",
+            "transforms": [
+                {
+                    "x": 14.9,
+                    "y": 12.1,
+                    "i": "IMAGE_REANIM_HAIR_10"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hair_09_line",
+            "transforms": [
+                {
+                    "x": 12.3,
+                    "y": 15.8,
+                    "i": "IMAGE_REANIM_HAIR_09_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hair_09",
+            "transforms": [
+                {
+                    "x": 13,
+                    "y": 16.4,
+                    "i": "IMAGE_REANIM_HAIR_09"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hair_08_line",
+            "transforms": [
+                {
+                    "x": 51.4,
+                    "y": 25.9,
+                    "i": "IMAGE_REANIM_HAIR_08_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hair_08",
+            "transforms": [
+                {
+                    "x": 20.2,
+                    "y": 26.6,
+                    "i": "IMAGE_REANIM_HAIR_08"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hair_07_line",
+            "transforms": [
+                {
+                    "x": 14.3,
+                    "y": 10.5,
+                    "i": "IMAGE_REANIM_HAIR_07_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hair_07",
+            "transforms": [
+                {
+                    "x": 14.1,
+                    "y": 11.5,
+                    "i": "IMAGE_REANIM_HAIR_07"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hair_06_line",
+            "transforms": [
+                {
+                    "x": 22.4,
+                    "y": 13.2,
+                    "i": "IMAGE_REANIM_HAIR_06_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hair_06",
+            "transforms": [
+                {
+                    "x": 22.7,
+                    "y": 13.6,
+                    "i": "IMAGE_REANIM_HAIR_06"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hair_05_line",
+            "transforms": [
+                {
+                    "x": 19.1,
+                    "y": 13.5,
+                    "i": "IMAGE_REANIM_HAIR_05_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hair_05",
+            "transforms": [
+                {
+                    "x": 19.6,
+                    "y": 7.2,
+                    "i": "IMAGE_REANIM_HAIR_05"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hair_04_line",
+            "transforms": [
+                {
+                    "x": 17.5,
+                    "y": 17.1,
+                    "i": "IMAGE_REANIM_HAIR_04_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hair_04",
+            "transforms": [
+                {
+                    "x": 29.5,
+                    "y": 18.1,
+                    "i": "IMAGE_REANIM_HAIR_04"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hair_03_line",
+            "transforms": [
+                {
+                    "x": 14.7,
+                    "y": 8.9,
+                    "i": "IMAGE_REANIM_HAIR_03_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hair_03",
+            "transforms": [
+                {
+                    "x": 15.4,
+                    "y": 9.5,
+                    "i": "IMAGE_REANIM_HAIR_03"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hair_02_line",
+            "transforms": [
+                {
+                    "x": 13.4,
+                    "y": 14.3,
+                    "i": "IMAGE_REANIM_HAIR_02_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hair_01_line",
+            "transforms": [
+                {
+                    "x": 12.4,
+                    "y": 13.6,
+                    "i": "IMAGE_REANIM_HAIR_01_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hair_01",
+            "transforms": [
+                {
+                    "x": 12.9,
+                    "y": 14.6,
+                    "i": "IMAGE_REANIM_HAIR_01"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hair_00_line",
+            "transforms": [
+                {
+                    "x": 13.1,
+                    "y": 5.7,
+                    "i": "IMAGE_REANIM_HAIR_00_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "hair_00",
+            "transforms": [
+                {
+                    "x": 16.2,
+                    "y": 6.1,
+                    "i": "IMAGE_REANIM_HAIR_00"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_23_line",
+            "transforms": [
+                {
+                    "x": 18.1,
+                    "y": 42.8,
+                    "i": "IMAGE_REANIM_FACIALHAIR_23_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_23",
+            "transforms": [
+                {
+                    "x": 19.2,
+                    "y": 42.9,
+                    "i": "IMAGE_REANIM_FACIALHAIR_23"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_22_line",
+            "transforms": [
+                {
+                    "x": 23.5,
+                    "y": 56.6,
+                    "i": "IMAGE_REANIM_FACIALHAIR_22_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_22",
+            "transforms": [
+                {
+                    "x": 24.1,
+                    "y": 57.1,
+                    "i": "IMAGE_REANIM_FACIALHAIR_22"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_21_line",
+            "transforms": [
+                {
+                    "x": 8.5,
+                    "y": 35.2,
+                    "i": "IMAGE_REANIM_FACIALHAIR_21_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_21",
+            "transforms": [
+                {
+                    "x": 8.5,
+                    "y": 35.2,
+                    "i": "IMAGE_REANIM_FACIALHAIR_21"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_20_line",
+            "transforms": [
+                {
+                    "x": 46.6,
+                    "y": 34.4,
+                    "i": "IMAGE_REANIM_FACIALHAIR_20_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_20",
+            "transforms": [
+                {
+                    "x": 47,
+                    "y": 34.5,
+                    "i": "IMAGE_REANIM_FACIALHAIR_20"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_19_line",
+            "transforms": [
+                {
+                    "x": 45.8,
+                    "y": 33.7,
+                    "i": "IMAGE_REANIM_FACIALHAIR_19_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_19",
+            "transforms": [
+                {
+                    "x": 46.8,
+                    "y": 35.4,
+                    "i": "IMAGE_REANIM_FACIALHAIR_19"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_18_line",
+            "transforms": [
+                {
+                    "x": 20.1,
+                    "y": 37.1,
+                    "i": "IMAGE_REANIM_FACIALHAIR_18_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_18",
+            "transforms": [
+                {
+                    "x": 20.5,
+                    "y": 39.6,
+                    "i": "IMAGE_REANIM_FACIALHAIR_18"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_17",
+            "transforms": [
+                {
+                    "x": 26.1,
+                    "y": 39.2,
+                    "i": "IMAGE_REANIM_FACIALHAIR_17"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_17_line",
+            "transforms": [
+                {
+                    "x": 24.8,
+                    "y": 38.5,
+                    "i": "IMAGE_REANIM_FACIALHAIR_17_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_16_line",
+            "transforms": [
+                {
+                    "x": 19.7,
+                    "y": 44.6,
+                    "i": "IMAGE_REANIM_FACIALHAIR_16_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_16",
+            "transforms": [
+                {
+                    "x": 20.3,
+                    "y": 45,
+                    "i": "IMAGE_REANIM_FACIALHAIR_16"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_15_line",
+            "transforms": [
+                {
+                    "x": 26.9,
+                    "y": 54.4,
+                    "i": "IMAGE_REANIM_FACIALHAIR_15_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_15",
+            "transforms": [
+                {
+                    "x": 27.2,
+                    "y": 54.6,
+                    "i": "IMAGE_REANIM_FACIALHAIR_15"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_14_line",
+            "transforms": [
+                {
+                    "x": 25.9,
+                    "y": 56.9,
+                    "i": "IMAGE_REANIM_FACIALHAIR_14_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_14",
+            "transforms": [
+                {
+                    "x": 26.8,
+                    "y": 57.4,
+                    "i": "IMAGE_REANIM_FACIALHAIR_14"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_13_line",
+            "transforms": [
+                {
+                    "x": 11.8,
+                    "y": 40.4,
+                    "i": "IMAGE_REANIM_FACIALHAIR_13_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_13",
+            "transforms": [
+                {
+                    "x": 12.2,
+                    "y": 40.9,
+                    "i": "IMAGE_REANIM_FACIALHAIR_13"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_12_line",
+            "transforms": [
+                {
+                    "x": 20.4,
+                    "y": 44.5,
+                    "i": "IMAGE_REANIM_FACIALHAIR_12_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_12",
+            "transforms": [
+                {
+                    "x": 20.8,
+                    "y": 45.1,
+                    "i": "IMAGE_REANIM_FACIALHAIR_12"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_11_line",
+            "transforms": [
+                {
+                    "x": 15,
+                    "y": 42.3,
+                    "i": "IMAGE_REANIM_FACIALHAIR_11_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_11",
+            "transforms": [
+                {
+                    "x": 13.4,
+                    "y": 42.6,
+                    "i": "IMAGE_REANIM_FACIALHAIR_11"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_10_line",
+            "transforms": [
+                {
+                    "x": 19.1,
+                    "y": 35.5,
+                    "i": "IMAGE_REANIM_FACIALHAIR_10_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_10",
+            "transforms": [
+                {
+                    "x": 19.5,
+                    "y": 37.6,
+                    "i": "IMAGE_REANIM_FACIALHAIR_10"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_09_line",
+            "transforms": [
+                {
+                    "x": 20.8,
+                    "y": 44.7,
+                    "i": "IMAGE_REANIM_FACIALHAIR_09_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_09",
+            "transforms": [
+                {
+                    "x": 21.6,
+                    "y": 45.4,
+                    "i": "IMAGE_REANIM_FACIALHAIR_09"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_08_line",
+            "transforms": [
+                {
+                    "x": 19,
+                    "y": 43.6,
+                    "i": "IMAGE_REANIM_FACIALHAIR_08_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_08",
+            "transforms": [
+                {
+                    "x": 19.4,
+                    "y": 43.1,
+                    "i": "IMAGE_REANIM_FACIALHAIR_08"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_07_line",
+            "transforms": [
+                {
+                    "x": 20.2,
+                    "y": 42.1,
+                    "i": "IMAGE_REANIM_FACIALHAIR_07_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_07",
+            "transforms": [
+                {
+                    "x": 20.5,
+                    "y": 42.4,
+                    "i": "IMAGE_REANIM_FACIALHAIR_07"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_06_line",
+            "transforms": [
+                {
+                    "x": 9.5,
+                    "y": 43,
+                    "i": "IMAGE_REANIM_FACIALHAIR_06_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_06",
+            "transforms": [
+                {
+                    "x": 16.2,
+                    "y": 44,
+                    "i": "IMAGE_REANIM_FACIALHAIR_06"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_05_line",
+            "transforms": [
+                {
+                    "x": 21.4,
+                    "y": 43.9,
+                    "i": "IMAGE_REANIM_FACIALHAIR_05_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_05",
+            "transforms": [
+                {
+                    "x": 21.7,
+                    "y": 44.4,
+                    "i": "IMAGE_REANIM_FACIALHAIR_05"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_04_line",
+            "transforms": [
+                {
+                    "x": 29.3,
+                    "y": 57.1,
+                    "i": "IMAGE_REANIM_FACIALHAIR_04_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_04",
+            "transforms": [
+                {
+                    "x": 29.6,
+                    "y": 56.7,
+                    "i": "IMAGE_REANIM_FACIALHAIR_04"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_03_line",
+            "transforms": [
+                {
+                    "x": 18.4,
+                    "y": 42.8,
+                    "i": "IMAGE_REANIM_FACIALHAIR_03_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_03",
+            "transforms": [
+                {
+                    "x": 19.2,
+                    "y": 43.5,
+                    "i": "IMAGE_REANIM_FACIALHAIR_03"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_02_line",
+            "transforms": [
+                {
+                    "x": 19.8,
+                    "y": 43.3,
+                    "i": "IMAGE_REANIM_FACIALHAIR_02_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_02",
+            "transforms": [
+                {
+                    "x": 21,
+                    "y": 43.6,
+                    "i": "IMAGE_REANIM_FACIALHAIR_02"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_01_line",
+            "transforms": [
+                {
+                    "x": 22.2,
+                    "y": 43.2,
+                    "i": "IMAGE_REANIM_FACIALHAIR_01_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_01",
+            "transforms": [
+                {
+                    "x": 22.6,
+                    "y": 43.5,
+                    "i": "IMAGE_REANIM_FACIALHAIR_01"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_00_line",
+            "transforms": [
+                {
+                    "x": 16.7,
+                    "y": 43.3,
+                    "i": "IMAGE_REANIM_FACIALHAIR_00_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "facialHair_00",
+            "transforms": [
+                {
+                    "x": 16.9,
+                    "y": 43.6,
+                    "i": "IMAGE_REANIM_FACIALHAIR_00"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "accessories_13",
+            "transforms": [
+                {
+                    "x": 51.5,
+                    "y": 30.1,
+                    "i": "IMAGE_REANIM_ACCESSORIES_13"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "accessories_14",
+            "transforms": [
+                {
+                    "x": 54,
+                    "y": 43.6,
+                    "sx": 0.35,
+                    "sy": 0.35,
+                    "i": "IMAGE_REANIM_ACCESSORIES_14"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "accessories_12",
+            "transforms": [
+                {
+                    "x": 26.6,
+                    "y": 46.1,
+                    "i": "IMAGE_REANIM_ACCESSORIES_12"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "accessories_11",
+            "transforms": [
+                {
+                    "x": 29.2,
+                    "y": 55.5,
+                    "i": "IMAGE_REANIM_ACCESSORIES_11"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "accessories_10",
+            "transforms": [
+                {
+                    "x": 32.8,
+                    "y": 50.6,
+                    "i": "IMAGE_REANIM_ACCESSORIES_10"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "accessories_09",
+            "transforms": [
+                {
+                    "x": 53.5,
+                    "y": 37.6,
+                    "i": "IMAGE_REANIM_ACCESSORIES_09"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "accessories_08",
+            "transforms": [
+                {
+                    "x": 9.1,
+                    "y": 17.4,
+                    "i": "IMAGE_REANIM_ACCESSORIES_08"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "accessories_07",
+            "transforms": [
+                {
+                    "x": 20.1,
+                    "y": 39.5,
+                    "i": "IMAGE_REANIM_ACCESSORIES_07"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "accessories_06",
+            "transforms": [
+                {
+                    "x": 47.1,
+                    "y": 28.3,
+                    "i": "IMAGE_REANIM_ACCESSORIES_06"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "accessories_05",
+            "transforms": [
+                {
+                    "x": 41.6,
+                    "y": 44.4,
+                    "i": "IMAGE_REANIM_ACCESSORIES_05"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "accessories_04",
+            "transforms": [
+                {
+                    "x": 51.8,
+                    "y": 40.1,
+                    "i": "IMAGE_REANIM_ACCESSORIES_04"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "accessories_03",
+            "transforms": [
+                {
+                    "x": 51.6,
+                    "y": 38.7,
+                    "i": "IMAGE_REANIM_ACCESSORIES_03"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "accessories_02",
+            "transforms": [
+                {
+                    "x": 36.1,
+                    "y": 45.5,
+                    "i": "IMAGE_REANIM_ACCESSORIES_02"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "accessories_01",
+            "transforms": [
+                {
+                    "x": 43.6,
+                    "y": 44.5,
+                    "i": "IMAGE_REANIM_ACCESSORIES_01"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "accessories_00",
+            "transforms": [
+                {
+                    "x": 41,
+                    "y": 44,
+                    "i": "IMAGE_REANIM_ACCESSORIES_00"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "eyeWear_15",
+            "transforms": [
+                {
+                    "x": 17.5,
+                    "y": 28.2,
+                    "i": "IMAGE_REANIM_EYEWEAR_15"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "eyeWear_14",
+            "transforms": [
+                {
+                    "x": 19.1,
+                    "y": 27.7,
+                    "i": "IMAGE_REANIM_EYEWEAR_14"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "eyeWear_13",
+            "transforms": [
+                {
+                    "x": 16.7,
+                    "y": 27.6,
+                    "i": "IMAGE_REANIM_EYEWEAR_13"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "eyeWear_12",
+            "transforms": [
+                {
+                    "x": 14.6,
+                    "y": 33.9,
+                    "i": "IMAGE_REANIM_EYEWEAR_12"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "eyeWear_11_line",
+            "transforms": [
+                {
+                    "x": 17.3,
+                    "y": 38.9,
+                    "i": "IMAGE_REANIM_EYEWEAR_11_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "eyeWear_11",
+            "transforms": [
+                {
+                    "x": 17.7,
+                    "y": 39.3,
+                    "i": "IMAGE_REANIM_EYEWEAR_11"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "eyeWear_10_line",
+            "transforms": [
+                {
+                    "x": 15.9,
+                    "y": 30.1,
+                    "i": "IMAGE_REANIM_EYEWEAR_10_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "eyeWear_10",
+            "transforms": [
+                {
+                    "x": 16.2,
+                    "y": 30.4,
+                    "i": "IMAGE_REANIM_EYEWEAR_10"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "eyeWear_09_line",
+            "transforms": [
+                {
+                    "x": 15.7,
+                    "y": 33,
+                    "i": "IMAGE_REANIM_EYEWEAR_09_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "eyeWear_09",
+            "transforms": [
+                {
+                    "x": 16.1,
+                    "y": 33.3,
+                    "i": "IMAGE_REANIM_EYEWEAR_09"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "eyeWear_08_line",
+            "transforms": [
+                {
+                    "x": 17.7,
+                    "y": 39.8,
+                    "i": "IMAGE_REANIM_EYEWEAR_08_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "eyeWear_08",
+            "transforms": [
+                {
+                    "x": 18.3,
+                    "y": 40.1,
+                    "i": "IMAGE_REANIM_EYEWEAR_08"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "eyeWear_07_line",
+            "transforms": [
+                {
+                    "x": 16.3,
+                    "y": 29.2,
+                    "i": "IMAGE_REANIM_EYEWEAR_07_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "eyeWear_07",
+            "transforms": [
+                {
+                    "x": 16.1,
+                    "y": 29.5,
+                    "i": "IMAGE_REANIM_EYEWEAR_07"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "eyeWear_06_line",
+            "transforms": [
+                {
+                    "x": 22.9,
+                    "y": 37.7,
+                    "i": "IMAGE_REANIM_EYEWEAR_06_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "eyeWear_06",
+            "transforms": [
+                {
+                    "x": 23.2,
+                    "y": 38,
+                    "i": "IMAGE_REANIM_EYEWEAR_06"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "eyeWear_05_line",
+            "transforms": [
+                {
+                    "x": 15.2,
+                    "y": 32.6,
+                    "i": "IMAGE_REANIM_EYEWEAR_05_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "eyeWear_05",
+            "transforms": [
+                {
+                    "x": 15.6,
+                    "y": 33,
+                    "i": "IMAGE_REANIM_EYEWEAR_05"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "eyeWear_04_line",
+            "transforms": [
+                {
+                    "x": 15.5,
+                    "y": 32.3,
+                    "i": "IMAGE_REANIM_EYEWEAR_04_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "eyeWear_04",
+            "transforms": [
+                {
+                    "x": 15.8,
+                    "y": 32.6,
+                    "i": "IMAGE_REANIM_EYEWEAR_04"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "eyeWear_03_line",
+            "transforms": [
+                {
+                    "x": 15.1,
+                    "y": 32.5,
+                    "i": "IMAGE_REANIM_EYEWEAR_03_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "eyeWear_03",
+            "transforms": [
+                {
+                    "x": 15.5,
+                    "y": 32.8,
+                    "i": "IMAGE_REANIM_EYEWEAR_03"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "eyeWear_02_line",
+            "transforms": [
+                {
+                    "x": 14.9,
+                    "y": 29.9,
+                    "i": "IMAGE_REANIM_EYEWEAR_02_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "eyeWear_02",
+            "transforms": [
+                {
+                    "x": 14.2,
+                    "y": 31.2,
+                    "i": "IMAGE_REANIM_EYEWEAR_02"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "eyeWear_01_line",
+            "transforms": [
+                {
+                    "x": 14.7,
+                    "y": 35.5,
+                    "i": "IMAGE_REANIM_EYEWEAR_01_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "eyeWear_01",
+            "transforms": [
+                {
+                    "x": 15,
+                    "y": 35.9,
+                    "i": "IMAGE_REANIM_EYEWEAR_01"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "eyeWear_00_line",
+            "transforms": [
+                {
+                    "x": 14.6,
+                    "y": 31,
+                    "i": "IMAGE_REANIM_EYEWEAR_00_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "eyeWear_00",
+            "transforms": [
+                {
+                    "x": 14.9,
+                    "y": 31.5,
+                    "i": "IMAGE_REANIM_EYEWEAR_00"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "tidBits_13",
+            "transforms": [
+                {
+                    "x": 45.4,
+                    "y": 44.6,
+                    "i": "IMAGE_REANIM_TIDBITS_13"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "tidBits_12",
+            "transforms": [
+                {
+                    "x": 37.5,
+                    "y": 21.8,
+                    "i": "IMAGE_REANIM_TIDBITS_12"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "tidBits_11_line",
+            "transforms": [
+                {
+                    "x": 35.9,
+                    "y": 36.8,
+                    "i": "IMAGE_REANIM_TIDBITS_11_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "tidBits_11",
+            "transforms": [
+                {
+                    "x": 36.6,
+                    "y": 37.4,
+                    "i": "IMAGE_REANIM_TIDBITS_11"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "tidBits_10_line",
+            "transforms": [
+                {
+                    "x": 18.1,
+                    "y": 32.4,
+                    "i": "IMAGE_REANIM_TIDBITS_10_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "tidBits_10",
+            "transforms": [
+                {
+                    "x": 18.7,
+                    "y": 29,
+                    "i": "IMAGE_REANIM_TIDBITS_10"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "tidBits_09_line",
+            "transforms": [
+                {
+                    "x": 18.2,
+                    "y": 34,
+                    "i": "IMAGE_REANIM_TIDBITS_09_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "tidBits_09",
+            "transforms": [
+                {
+                    "x": 18.6,
+                    "y": 29.9,
+                    "i": "IMAGE_REANIM_TIDBITS_09"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "tidBits_08",
+            "transforms": [
+                {
+                    "x": 12.5,
+                    "y": 31.7,
+                    "i": "IMAGE_REANIM_TIDBITS_08"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "tidBits_07",
+            "transforms": [
+                {
+                    "x": 16.9,
+                    "y": 24.1,
+                    "i": "IMAGE_REANIM_TIDBITS_07"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "tidBits_06",
+            "transforms": [
+                {
+                    "x": 15.7,
+                    "y": 28.7,
+                    "i": "IMAGE_REANIM_TIDBITS_06"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "tidBits_05",
+            "transforms": [
+                {
+                    "x": 15.4,
+                    "y": 27.3,
+                    "i": "IMAGE_REANIM_TIDBITS_05"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "tidBits_04",
+            "transforms": [
+                {
+                    "x": 16.3,
+                    "y": 24.7,
+                    "i": "IMAGE_REANIM_TIDBITS_04"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "tidBits_03",
+            "transforms": [
+                {
+                    "x": 16.5,
+                    "y": 25.8,
+                    "i": "IMAGE_REANIM_TIDBITS_03"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "tidBits_02",
+            "transforms": [
+                {
+                    "x": 22.1,
+                    "y": 43.7,
+                    "i": "IMAGE_REANIM_TIDBITS_02"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "tidBits_01_line",
+            "transforms": [
+                {
+                    "x": 16.4,
+                    "y": 26.2,
+                    "i": "IMAGE_REANIM_TIDBITS_01_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "tidBits_01",
+            "transforms": [
+                {
+                    "x": 20.9,
+                    "y": 39.4,
+                    "i": "IMAGE_REANIM_TIDBITS_01"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "tidBits_00_line",
+            "transforms": [
+                {
+                    "x": 16.4,
+                    "y": 26.7,
+                    "i": "IMAGE_REANIM_TIDBITS_00_LINE"
+                },
+                {}
+            ]
+        },
+        {
+            "name": "tidBits_00",
+            "transforms": [
+                {
+                    "x": 22.1,
+                    "y": 43.7,
+                    "i": "IMAGE_REANIM_TIDBITS_00"
+                },
+                {}
+            ]
+        }
+    ]
+}

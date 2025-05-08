@@ -1,0 +1,57 @@
+{
+    "fps": 12,
+    "tracks": [
+        {
+            "name": "Digger_rising_dirt",
+            "transforms": [
+                {
+                    "x": 0.1,
+                    "y": 0.1,
+                    "sx": 0.8,
+                    "sy": 0.8,
+                    "i": "IMAGE_REANIM_DIGGER_RISING_DIRT"
+                },
+                {
+                    "i": "IMAGE_REANIM_DIGGER_RISING_DIRT2"
+                },
+                {
+                    "i": "IMAGE_REANIM_DIGGER_RISING_DIRT3"
+                },
+                {
+                    "i": "IMAGE_REANIM_DIGGER_RISING_DIRT4"
+                },
+                {
+                    "i": "IMAGE_REANIM_DIGGER_RISING_DIRT5"
+                },
+                {
+                    "i": "IMAGE_REANIM_DIGGER_RISING_DIRT6"
+                },
+                {
+                    "i": "IMAGE_REANIM_DIGGER_RISING_DIRT7"
+                },
+                {
+                    "i": "IMAGE_REANIM_DIGGER_RISING_DIRT8"
+                },
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {
+                    "a": 0
+                }
+            ]
+        }
+    ]
+}

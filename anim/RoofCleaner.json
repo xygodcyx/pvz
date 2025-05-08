@@ -1,0 +1,490 @@
+{
+    "fps": 12,
+    "tracks": [
+        {
+            "name": "RoofCleaner_backwheel1",
+            "transforms": [
+                {
+                    "x": 10.6,
+                    "y": 30,
+                    "sx": 0.8,
+                    "sy": 0.8,
+                    "i": "IMAGE_REANIM_ROOFCLEANER_WHEEL"
+                },
+                {
+                    "y": 30.1
+                },
+                {
+                    "y": 30.3
+                },
+                {
+                    "y": 30.4
+                },
+                {
+                    "y": 30.6
+                },
+                {
+                    "y": 30.4
+                },
+                {
+                    "y": 30.3
+                },
+                {
+                    "y": 30.1
+                },
+                {
+                    "y": 30
+                }
+            ]
+        },
+        {
+            "name": "RoofCleaner_backwheel2",
+            "transforms": [
+                {
+                    "x": 61.5,
+                    "y": 30,
+                    "sx": 0.8,
+                    "sy": 0.8,
+                    "i": "IMAGE_REANIM_ROOFCLEANER_WHEEL"
+                },
+                {
+                    "y": 29.9
+                },
+                {
+                    "y": 29.8
+                },
+                {},
+                {
+                    "y": 29.7
+                },
+                {
+                    "y": 29.8
+                },
+                {},
+                {
+                    "y": 29.9
+                },
+                {
+                    "y": 30
+                }
+            ]
+        },
+        {
+            "name": "RoofCleaner_body1",
+            "transforms": [
+                {
+                    "x": 12.1,
+                    "y": 30,
+                    "sx": 0.8,
+                    "sy": 0.8,
+                    "i": "IMAGE_REANIM_ROOFCLEANER_BODY1"
+                },
+                {
+                    "y": 30.3
+                },
+                {
+                    "y": 30.6
+                },
+                {
+                    "y": 30.3
+                },
+                {
+                    "y": 30
+                },
+                {
+                    "y": 30.3
+                },
+                {
+                    "y": 30.6
+                },
+                {
+                    "y": 30.3
+                },
+                {
+                    "y": 30
+                }
+            ]
+        },
+        {
+            "name": "RoofCleaner_brushes",
+            "transforms": [
+                {
+                    "x": 11.8,
+                    "y": 29.8,
+                    "sx": 0.8,
+                    "sy": 0.8,
+                    "i": "IMAGE_REANIM_ROOFCLEANER_BRUSH1"
+                },
+                {
+                    "x": 11.9,
+                    "y": 30,
+                    "i": "IMAGE_REANIM_ROOFCLEANER_BRUSH2"
+                },
+                {
+                    "x": 11.8,
+                    "i": "IMAGE_REANIM_ROOFCLEANER_BRUSH3"
+                },
+                {
+                    "y": 30.1,
+                    "i": "IMAGE_REANIM_ROOFCLEANER_BRUSH4"
+                },
+                {
+                    "y": 30.3,
+                    "i": "IMAGE_REANIM_ROOFCLEANER_BRUSH5"
+                },
+                {
+                    "y": 30.2,
+                    "i": "IMAGE_REANIM_ROOFCLEANER_BRUSH4"
+                },
+                {
+                    "y": 30.1,
+                    "i": "IMAGE_REANIM_ROOFCLEANER_BRUSH3"
+                },
+                {
+                    "y": 29.9,
+                    "i": "IMAGE_REANIM_ROOFCLEANER_BRUSH2"
+                },
+                {
+                    "y": 29.8,
+                    "i": "IMAGE_REANIM_ROOFCLEANER_BRUSH1"
+                }
+            ]
+        },
+        {
+            "name": "RoofCleaner_body2",
+            "transforms": [
+                {
+                    "x": 9.1,
+                    "y": 28,
+                    "sx": 0.8,
+                    "sy": 0.8,
+                    "i": "IMAGE_REANIM_ROOFCLEANER_BODY2"
+                },
+                {
+                    "y": 27.7
+                },
+                {
+                    "y": 27.4
+                },
+                {
+                    "y": 27.2
+                },
+                {
+                    "y": 26.9
+                },
+                {
+                    "y": 27.2
+                },
+                {
+                    "y": 27.4
+                },
+                {
+                    "y": 27.7
+                },
+                {
+                    "y": 28
+                }
+            ]
+        },
+        {
+            "name": "RoofCleaner_body3",
+            "transforms": [
+                {
+                    "x": 32.9,
+                    "y": 33.1,
+                    "sx": 0.8,
+                    "sy": 0.8,
+                    "i": "IMAGE_REANIM_ROOFCLEANER_BODY3"
+                },
+                {
+                    "y": 33.5
+                },
+                {
+                    "y": 33.9
+                },
+                {
+                    "x": 32.5,
+                    "y": 34.2,
+                    "sx": 0.838,
+                    "sy": 0.767
+                },
+                {
+                    "x": 32.9,
+                    "y": 33.1,
+                    "sx": 0.8,
+                    "sy": 0.8
+                },
+                {
+                    "y": 33.5
+                },
+                {
+                    "y": 33.9
+                },
+                {
+                    "x": 32.5,
+                    "y": 34.2,
+                    "sx": 0.838,
+                    "sy": 0.767
+                },
+                {
+                    "x": 32.9,
+                    "y": 33.1,
+                    "sx": 0.8,
+                    "sy": 0.8
+                }
+            ]
+        },
+        {
+            "name": "RoofCleaner_body4",
+            "transforms": [
+                {
+                    "x": 45.9,
+                    "y": 29.6,
+                    "sx": 0.8,
+                    "sy": 0.8,
+                    "i": "IMAGE_REANIM_ROOFCLEANER_BODY4"
+                },
+                {
+                    "y": 29.9
+                },
+                {
+                    "y": 30.3
+                },
+                {
+                    "x": 46.5,
+                    "y": 30,
+                    "kx": 5.5,
+                    "ky": 5.5
+                },
+                {
+                    "x": 45.9,
+                    "y": 29.6,
+                    "kx": 0,
+                    "ky": 0
+                },
+                {
+                    "y": 29.9
+                },
+                {
+                    "y": 30.3
+                },
+                {
+                    "x": 46.5,
+                    "y": 30,
+                    "kx": 5.5,
+                    "ky": 5.5
+                },
+                {
+                    "x": 45.9,
+                    "y": 29.6,
+                    "kx": 0,
+                    "ky": 0
+                }
+            ]
+        },
+        {
+            "name": "RoofCleaner_outerwheel1",
+            "transforms": [
+                {
+                    "x": 54,
+                    "y": 64.5,
+                    "sx": 0.8,
+                    "sy": 0.8,
+                    "i": "IMAGE_REANIM_ROOFCLEANER_WHEEL"
+                },
+                {
+                    "y": 64.6
+                },
+                {
+                    "y": 64.7
+                },
+                {
+                    "y": 64.8
+                },
+                {},
+                {},
+                {
+                    "y": 64.7
+                },
+                {
+                    "y": 64.6
+                },
+                {
+                    "y": 64.5
+                }
+            ]
+        },
+        {
+            "name": "RoofCleaner_hubcap1",
+            "transforms": [
+                {
+                    "x": 54.4,
+                    "y": 64.3,
+                    "sx": 0.8,
+                    "sy": 0.8,
+                    "i": "IMAGE_REANIM_ROOFCLEANER_HUBCAP"
+                },
+                {
+                    "x": 55.2,
+                    "y": 63.8,
+                    "kx": 6,
+                    "ky": 6,
+                    "sx": 0.799,
+                    "sy": 0.799
+                },
+                {
+                    "x": 56.1,
+                    "y": 63.4,
+                    "kx": 12.3,
+                    "ky": 12.3
+                },
+                {
+                    "x": 55.2,
+                    "y": 64,
+                    "kx": 6,
+                    "ky": 6
+                },
+                {
+                    "x": 54.4,
+                    "y": 64.7,
+                    "kx": 0,
+                    "ky": 0,
+                    "sx": 0.8,
+                    "sy": 0.8
+                },
+                {
+                    "x": 55.2,
+                    "y": 64,
+                    "kx": 6,
+                    "ky": 6,
+                    "sx": 0.799,
+                    "sy": 0.799
+                },
+                {
+                    "x": 56.1,
+                    "y": 63.4,
+                    "kx": 12.3,
+                    "ky": 12.3
+                },
+                {
+                    "x": 55.2,
+                    "y": 63.8,
+                    "kx": 6,
+                    "ky": 6
+                },
+                {
+                    "x": 54.4,
+                    "y": 64.3,
+                    "kx": 0,
+                    "ky": 0,
+                    "sx": 0.8,
+                    "sy": 0.8
+                }
+            ]
+        },
+        {
+            "name": "RoofCleaner_outerwheel2",
+            "transforms": [
+                {
+                    "x": 4.1,
+                    "y": 65.3,
+                    "sx": 0.8,
+                    "sy": 0.8,
+                    "i": "IMAGE_REANIM_ROOFCLEANER_WHEEL"
+                },
+                {
+                    "y": 65.2
+                },
+                {
+                    "y": 65.1
+                },
+                {
+                    "y": 65
+                },
+                {
+                    "y": 64.8
+                },
+                {
+                    "y": 65
+                },
+                {
+                    "y": 65.1
+                },
+                {
+                    "y": 65.2
+                },
+                {
+                    "y": 65.3
+                }
+            ]
+        },
+        {
+            "name": "RoofCleaner_hubcap2",
+            "transforms": [
+                {
+                    "x": 4.2,
+                    "y": 65.1,
+                    "sx": 0.8,
+                    "sy": 0.8,
+                    "i": "IMAGE_REANIM_ROOFCLEANER_HUBCAP"
+                },
+                {
+                    "x": 5,
+                    "y": 64.3,
+                    "kx": 6,
+                    "ky": 6,
+                    "sx": 0.799,
+                    "sy": 0.799
+                },
+                {
+                    "x": 6,
+                    "y": 63.5,
+                    "kx": 12.3,
+                    "ky": 12.3
+                },
+                {
+                    "x": 5,
+                    "y": 64.1,
+                    "kx": 6,
+                    "ky": 6
+                },
+                {
+                    "x": 4.2,
+                    "y": 64.7,
+                    "kx": 0,
+                    "ky": 0,
+                    "sx": 0.8,
+                    "sy": 0.8
+                },
+                {
+                    "x": 5,
+                    "y": 64,
+                    "kx": 6,
+                    "ky": 6,
+                    "sx": 0.799,
+                    "sy": 0.799
+                },
+                {
+                    "x": 6,
+                    "y": 63.5,
+                    "kx": 12.3,
+                    "ky": 12.3
+                },
+                {
+                    "x": 5,
+                    "y": 64.3,
+                    "kx": 6,
+                    "ky": 6
+                },
+                {
+                    "x": 4.2,
+                    "y": 65.1,
+                    "kx": 0,
+                    "ky": 0,
+                    "sx": 0.8,
+                    "sy": 0.8
+                }
+            ]
+        }
+    ]
+}

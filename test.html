@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0" />
+    <title>test</title>
+    <style>
+      .wrap {
+        position: absolute;
+        width: 400px;
+        height: 300px;
+        left: 50%;
+        top: 50%;
+        translate: -50% -50%;
+        border: 1px solid black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      img {
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+      .img1 {
+        transform: rotateZ(0deg) rotateY(10deg);
+        left: 170px;
+        top: 100px;
+      }
+      .img2 {
+        transform: rotateZ(20deg);
+        left: 200px;
+        top: 140px;
+      }
+      .img3 {
+        transform: rotateZ(210deg) ;
+        left: 150px;
+        top: 150px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <div class="content">
+        <img
+          class="img1"
+          src="./reanim_png/Blover_petal.png"
+          alt="" />
+        <img
+          class="img2"
+          src="./reanim_png/Blover_petal.png"
+          alt="" />
+        <img
+          class="img3"
+          src="./reanim_png/Blover_petal.png"
+          alt="" />
+      </div>
+    </div>
+  </body>
+</html>

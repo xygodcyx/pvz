@@ -1,0 +1,227 @@
+{
+    "fps": 20,
+    "tracks": [
+        {
+            "name": "bag",
+            "transforms": [
+                {
+                    "x": 5.4,
+                    "y": 4.9,
+                    "i": "IMAGE_REANIM_ZENGARDEN_FERTILIZE_BAG1"
+                },
+                {
+                    "i": "IMAGE_REANIM_ZENGARDEN_FERTILIZER_BAG2"
+                },
+                {
+                    "i": "IMAGE_REANIM_ZENGARDEN_FERTILIZER_BAG3"
+                },
+                {},
+                {},
+                {},
+                {},
+                {
+                    "x": -7.9,
+                    "y": 17.5,
+                    "kx": -29,
+                    "ky": -29,
+                    "sx": 0.999,
+                    "sy": 0.999
+                },
+                {
+                    "x": -9.3,
+                    "y": 34,
+                    "kx": -58.3,
+                    "ky": -58.3
+                },
+                {
+                    "x": 1.9,
+                    "y": 47.8,
+                    "kx": -87.8,
+                    "ky": -87.8,
+                    "sx": 1,
+                    "sy": 1
+                },
+                {
+                    "x": 22.6,
+                    "y": 52.7,
+                    "kx": -116.8,
+                    "ky": -116.8,
+                    "sx": 0.999,
+                    "sy": 0.999
+                },
+                {
+                    "x": 47.8,
+                    "y": 45.7,
+                    "kx": -146.1,
+                    "ky": -146.1,
+                    "sx": 1,
+                    "sy": 1
+                },
+                {
+                    "sx": 0.998,
+                    "sy": 0.998
+                },
+                {
+                    "sx": 1,
+                    "sy": 1
+                },
+                {
+                    "x": 45.5,
+                    "y": 47.4,
+                    "kx": -143.3,
+                    "ky": -143.3,
+                    "sx": 0.998,
+                    "sy": 0.998
+                },
+                {
+                    "x": 43.2,
+                    "y": 48.9,
+                    "kx": -140.5,
+                    "ky": -140.5
+                },
+                {
+                    "x": 40.9,
+                    "y": 50.4,
+                    "kx": -137.8,
+                    "ky": -137.8
+                },
+                {
+                    "x": 38.5,
+                    "y": 51.9,
+                    "kx": -134.9,
+                    "ky": -134.9,
+                    "sx": 1,
+                    "sy": 1,
+                    "i": "IMAGE_REANIM_ZENGARDEN_FERTILIZER_BAG4"
+                },
+                {
+                    "y": 52.5
+                },
+                {
+                    "y": 53.3
+                },
+                {
+                    "y": 53.9
+                },
+                {
+                    "y": 53.3
+                },
+                {
+                    "y": 52.5
+                },
+                {
+                    "y": 51.9
+                },
+                {},
+                {
+                    "y": 52.5
+                },
+                {
+                    "y": 53.3
+                },
+                {
+                    "y": 53.9
+                },
+                {
+                    "y": 53.3
+                },
+                {
+                    "y": 52.5
+                },
+                {
+                    "y": 51.9
+                }
+            ]
+        },
+        {
+            "name": "seed",
+            "transforms": [
+                {
+                    "f": -1
+                },
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {
+                    "x": 35.6,
+                    "y": 21.9,
+                    "f": 0,
+                    "i": "IMAGE_REANIM_ZENGARDEN_FERTILIZER_SEED1"
+                },
+                {
+                    "x": 35.9,
+                    "i": "IMAGE_REANIM_ZENGARDEN_FERTILIZER_SEED2"
+                },
+                {
+                    "x": 36.6,
+                    "y": 25.7,
+                    "i": "IMAGE_REANIM_ZENGARDEN_FERTILIZER_SEED3"
+                },
+                {
+                    "x": 36.4,
+                    "y": 21.7,
+                    "i": "IMAGE_REANIM_ZENGARDEN_FERTILIZER_SEED4"
+                },
+                {
+                    "x": 35.6,
+                    "y": 22.2,
+                    "i": "IMAGE_REANIM_ZENGARDEN_FERTILIZER_SEED5"
+                },
+                {
+                    "x": 34.9,
+                    "y": 21.7,
+                    "i": "IMAGE_REANIM_ZENGARDEN_FERTILIZER_SEED6"
+                },
+                {
+                    "f": -1
+                },
+                {
+                    "x": 35.6,
+                    "y": 21.9,
+                    "f": 0,
+                    "i": "IMAGE_REANIM_ZENGARDEN_FERTILIZER_SEED1"
+                },
+                {
+                    "x": 35.9,
+                    "i": "IMAGE_REANIM_ZENGARDEN_FERTILIZER_SEED2"
+                },
+                {
+                    "x": 36.6,
+                    "y": 25.7,
+                    "i": "IMAGE_REANIM_ZENGARDEN_FERTILIZER_SEED3"
+                },
+                {
+                    "x": 36.4,
+                    "y": 21.7,
+                    "i": "IMAGE_REANIM_ZENGARDEN_FERTILIZER_SEED4"
+                },
+                {
+                    "x": 35.6,
+                    "y": 22.2,
+                    "i": "IMAGE_REANIM_ZENGARDEN_FERTILIZER_SEED5"
+                },
+                {
+                    "x": 34.9,
+                    "y": 21.7,
+                    "i": "IMAGE_REANIM_ZENGARDEN_FERTILIZER_SEED6"
+                },
+                {
+                    "f": -1
+                }
+            ]
+        }
+    ]
+}
